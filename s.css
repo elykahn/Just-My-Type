@@ -1,7 +1,7 @@
 .wf-loading {
 	height: 100%;
 	overflow: hidden;
-	background: url(ajax-loader.gif) center center no-repeat fixed;
+	background: url(images/ajax-loader.gif) center center no-repeat fixed;
 }
 
 .wf-loading * {
@@ -73,7 +73,7 @@ html {
 	font: 150%/1.5 proxima-nova, Helvetica Neue, Helvetica, Arial, sans-serif;
 	color: #222;
 	background-color: #fff;
-	background-image: url(curves.png);
+	background-image: url(images/curves.png);
 	background-attachment: fixed;
 	-webkit-font-smoothing: antialiased;
 	-webkit-font-feature-settings: "liga", "dlig";
@@ -389,7 +389,7 @@ header .wrap {
 
 .blueprint {
 	background-color: #405f83;
-	background-image: url(blueprint.png);
+	background-image: url(images/blueprint.png);
 	color: #fff;
 	font-family: skolar, serif;
 }
@@ -488,7 +488,7 @@ header .wrap {
 .printed {
 	color: #fff;
 	background-color: #333;
-	background-image: url(tire.png);
+	background-image: url(images/tire.png);
 	font-family: jubilat, serif;
 }
 
@@ -528,7 +528,7 @@ header .wrap {
 
 footer[role=contentinfo] {
 	background-color: #222;
-	background-image: url(darkcurves.png);
+	background-image: url(images/darkcurves.png);
 	background-attachment: fixed;
 	color: #eee;
 }
